@@ -1,2 +1,3 @@
 terminal push code to git
 step 1: git add .
+step 2: git commit -m 'message push code'
