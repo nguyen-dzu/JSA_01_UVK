@@ -1,1 +1,2 @@
-Hello World
+terminal push code to git
+step 1: git add .
