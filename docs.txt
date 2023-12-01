@@ -2,3 +2,57 @@ terminal push code to git
 step 1: git add .
 step 2: git commit -m 'message push code'
 stop 3: git push
+
+
+—
+Syntax: biến, câu điều kiện, switch case, vòng lặp, localStorage
+Biến:
+
+	var/let/const
+	—> var/let: có thể thay đổi
+	—> const: hằng số: không thể thay đổi 
+
+Câu điều kiện: if…else, 
+
+	nếu thoả mãn điều kiện thì nó sẽ thực 1 thứ gì đó 
+	còn nếu k thif nó thực hiện ở trong else.
+	
+Vòng lặp:
+	FOR/ WHile, do while: nắm vững 
+
+	for in, for of: biết cách sử dụng
+
+localStorage: 
+	-JSON: parce, stringify
+	- setItem/ getItem/ removeItem/ clear
+
+DOM: 
+	createElement,
+	classlist
+	appendchild,
+	addEventListender
+	getElementbyId
+	innertext, innerhtml…
+	attribute của html:
+		input: type, name, require	
+		img: src…
+
+Html: grid
+	phân chia item trên 1 mạng lưới.
+
+
+fontAnsome
+Google fonts…
+
+Bootraps.
+
+— 
+Dxdiag
+Modal: trong lập trình client-server
+		MVC, MVVM..
+API: rất quan Trọng.
+arrowFunction, callBack, bất đồng bộ.
+Tương tác với json. 
+GitHub: lưu trữ những đoạn code, project
+
+idea: web thương mại… 
